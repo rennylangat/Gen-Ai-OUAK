@@ -1,2 +1,0 @@
-This file will contain details of Week 01 project.
-Committing this to create the folder structure for the project lol 
