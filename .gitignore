@@ -1,0 +1,2 @@
+## Defines files and folders we do not want commited to github
+.env
