@@ -4,7 +4,11 @@
 }
 
 
+enum RoutingNodes { GEN_CHAT = "GeneralChat" }
+
+
 impl get_repo_info.get_repo_info{
+    print("We have landed here");
     repo_handler_node = [root-->( ` ? RepoInfo ) ];
     if not repo_handler_node {
         report 'RepoInfo node not found.' ;
